@@ -1,4 +1,5 @@
 public class MyClass {
+  int y = 7;
   int x = 5;
 
   public static void main(String[] args) {
@@ -6,3 +7,4 @@ public class MyClass {
     System.out.println(myObj.x);
   }
 }
+
