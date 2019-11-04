@@ -14,6 +14,8 @@ public class MyClass {
   int x = 5;
   
   int a=2;
+  
+  int f=90;
 
   public static void main(String[] args) {
 	  
